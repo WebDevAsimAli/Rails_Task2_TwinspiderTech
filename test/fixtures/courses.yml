@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  deartment: MyString
+  instructor: MyString
+  start_date: 2024-01-09
+  credit_hour: 1
+
+two:
+  name: MyString
+  deartment: MyString
+  instructor: MyString
+  start_date: 2024-01-09
+  credit_hour: 1
